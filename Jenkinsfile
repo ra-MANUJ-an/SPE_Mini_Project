@@ -9,7 +9,7 @@ pipeline {
         stage('Git Pull') {
             steps {
                 // Get code from a GitHub repository
-				git url: 'https://github.com/ayushdas2000/SPE_project.git',
+				git url: 'https://github.com/ra-MANUJ-an/SPE_Mini_Project.git',
 				branch: 'main',
                 credentialsId: 'GitCredential'
             }

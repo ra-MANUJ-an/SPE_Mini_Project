@@ -1,0 +1,64 @@
+2023-03-29 12:23:32.713 [main] INFO  calculator.Calculator - [factorial] - 5.0
+2023-03-29 12:23:32.716 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 120.0
+2023-03-29 12:23:32.716 [main] INFO  calculator.Calculator - [factorial] - 2.0
+2023-03-29 12:23:32.716 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:23:32.717 [main] INFO  calculator.Calculator - [SquareROOT] - 4.0
+2023-03-29 12:23:32.717 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:23:32.718 [main] INFO  calculator.Calculator - [SquareROOT] - 1.0
+2023-03-29 12:23:32.718 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 1.0
+2023-03-29 12:23:32.718 [main] INFO  calculator.Calculator - [SquareROOT] - 4.0
+2023-03-29 12:23:32.719 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:23:32.719 [main] INFO  calculator.Calculator - [SquareROOT] - 5.0
+2023-03-29 12:23:32.719 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.23606797749979
+2023-03-29 12:23:32.720 [main] INFO  calculator.Calculator - [lnx] - 1.0
+2023-03-29 12:23:32.720 [main] INFO  calculator.Calculator - [RESULT - lnx] - 0.0
+2023-03-29 12:23:32.720 [main] INFO  calculator.Calculator - [lnx] - 1.0
+2023-03-29 12:23:32.720 [main] INFO  calculator.Calculator - [RESULT - lnx] - 0.0
+2023-03-29 12:23:32.721 [main] INFO  calculator.Calculator - [lnx] - 5.0
+2023-03-29 12:23:32.721 [main] INFO  calculator.Calculator - [RESULT - lnx] - 1.6094379124341003
+2023-03-29 12:23:32.721 [main] INFO  calculator.Calculator - [lnx] - 3.0
+2023-03-29 12:23:32.721 [main] INFO  calculator.Calculator - [RESULT - lnx] - 1.0986122886681098
+2023-03-29 12:23:32.722 [main] INFO  calculator.Calculator - [factorial] - 3.0
+2023-03-29 12:23:32.722 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 6.0
+2023-03-29 12:23:32.722 [main] INFO  calculator.Calculator - [factorial] - 2.0
+2023-03-29 12:23:32.722 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:23:32.730 [main] INFO  calculator.Calculator - [Result - 2.0 to the power 6.0
+2023-03-29 12:23:32.731 [main] INFO  calculator.Calculator - [power] - 64.0
+2023-03-29 12:23:32.731 [main] INFO  calculator.Calculator - [Result - 3.0 to the power 4.0
+2023-03-29 12:23:32.731 [main] INFO  calculator.Calculator - [power] - 81.0
+2023-03-29 12:23:32.732 [main] INFO  calculator.Calculator - [Result - 2.0 to the power 3.0
+2023-03-29 12:23:32.732 [main] INFO  calculator.Calculator - [power] - 8.0
+2023-03-29 12:23:32.732 [main] INFO  calculator.Calculator - [Result - 2.0 to the power 4.0
+2023-03-29 12:23:32.732 [main] INFO  calculator.Calculator - [power] - 16.0
+2023-03-29 12:27:03.635 [main] INFO  calculator.Calculator - [factorial] - 5.0
+2023-03-29 12:27:03.638 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 120.0
+2023-03-29 12:27:03.638 [main] INFO  calculator.Calculator - [factorial] - 2.0
+2023-03-29 12:27:03.638 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:27:03.639 [main] INFO  calculator.Calculator - [SquareROOT] - 4.0
+2023-03-29 12:27:03.640 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:27:03.640 [main] INFO  calculator.Calculator - [SquareROOT] - 1.0
+2023-03-29 12:27:03.640 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 1.0
+2023-03-29 12:27:03.641 [main] INFO  calculator.Calculator - [SquareROOT] - 4.0
+2023-03-29 12:27:03.641 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:27:03.641 [main] INFO  calculator.Calculator - [SquareROOT] - 5.0
+2023-03-29 12:27:03.641 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.23606797749979
+2023-03-29 12:27:03.642 [main] INFO  calculator.Calculator - [lnx] - 1.0
+2023-03-29 12:27:03.643 [main] INFO  calculator.Calculator - [RESULT - lnx] - 0.0
+2023-03-29 12:27:03.643 [main] INFO  calculator.Calculator - [lnx] - 1.0
+2023-03-29 12:27:03.643 [main] INFO  calculator.Calculator - [RESULT - lnx] - 0.0
+2023-03-29 12:27:03.644 [main] INFO  calculator.Calculator - [lnx] - 5.0
+2023-03-29 12:27:03.644 [main] INFO  calculator.Calculator - [RESULT - lnx] - 1.6094379124341003
+2023-03-29 12:27:03.644 [main] INFO  calculator.Calculator - [lnx] - 3.0
+2023-03-29 12:27:03.644 [main] INFO  calculator.Calculator - [RESULT - lnx] - 1.0986122886681098
+2023-03-29 12:27:03.645 [main] INFO  calculator.Calculator - [factorial] - 3.0
+2023-03-29 12:27:03.645 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 6.0
+2023-03-29 12:27:03.645 [main] INFO  calculator.Calculator - [factorial] - 2.0
+2023-03-29 12:27:03.646 [main] INFO  calculator.Calculator - [RESULT - Square ROOT] - 2.0
+2023-03-29 12:27:03.653 [main] INFO  calculator.Calculator - [Result - 2.0 to the power 6.0
+2023-03-29 12:27:03.654 [main] INFO  calculator.Calculator - [power] - 64.0
+2023-03-29 12:27:03.654 [main] INFO  calculator.Calculator - [Result - 3.0 to the power 4.0
+2023-03-29 12:27:03.654 [main] INFO  calculator.Calculator - [power] - 81.0
+2023-03-29 12:27:03.655 [main] INFO  calculator.Calculator - [Result - 2.0 to the power 3.0
+2023-03-29 12:27:03.655 [main] INFO  calculator.Calculator - [power] - 8.0
+2023-03-29 12:27:03.655 [main] INFO  calculator.Calculator - [Result - 2.0 to the power 4.0
+2023-03-29 12:27:03.656 [main] INFO  calculator.Calculator - [power] - 16.0
